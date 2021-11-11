@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #5",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/5.png",
+  "dna": "2b0b59c3f159a2c6fe9e5f07e80644c5f83d438b",
+  "edition": 5,
+  "date": 1636618471621,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "metatron"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "tree of life"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "no jewelry"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "rudy guiliani"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "no glasses"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "no hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

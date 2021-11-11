@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #10",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/10.png",
+  "dna": "f58cbc029d30725c9b15382c9f3b6266a9813def",
+  "edition": 10,
+  "date": 1636618472318,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "billy meier"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "bonk"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "heavy gold"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "emmanuel macron"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "white caseys"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "army helmet"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

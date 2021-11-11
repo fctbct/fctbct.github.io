@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #2",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/2.png",
+  "dna": "816efff461b65a08bcb0ddb38982d3f77597c46c",
+  "edition": 2,
+  "date": 1636618471173,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "berlin wall"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "fubu"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "golden admittance"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "golden aoc"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "no glasses"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "cartoon winter hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

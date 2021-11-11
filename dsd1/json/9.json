@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #9",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/9.png",
+  "dna": "ba54faae7d0cb49332c725d0d4833c7ffd44a677",
+  "edition": 9,
+  "date": 1636618472180,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "jekyll island"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "kelly kapowski"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "cross"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "jfk"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "orange tint tortoise shell"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "hard hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

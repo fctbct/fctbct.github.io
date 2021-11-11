@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #6",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/6.png",
+  "dna": "cafbb2e9992e452b0625d5a9f9ff999c594b50c1",
+  "edition": 6,
+  "date": 1636618471791,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "black n yellow"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "dorian nakamoto"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "no jewelry"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "george soros"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "pink flowers transparent"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "safari"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

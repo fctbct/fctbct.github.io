@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #4",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/4.png",
+  "dna": "4998b0a8d7f80e1e65538b006e17375073abe67f",
+  "edition": 4,
+  "date": 1636618471470,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "jekyll island"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "jordan rookie"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "no jewelry"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "emmanuel macron"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "black shutter shades"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "no hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

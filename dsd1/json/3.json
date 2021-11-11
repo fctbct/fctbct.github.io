@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #3",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/3.png",
+  "dna": "95d3396b3241b515bca5865e3049b8876bcebd83",
+  "edition": 3,
+  "date": 1636618471321,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "grass knoll"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "rick james"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "no jewelry"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "donald trump"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "hello kitty"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "no hat"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

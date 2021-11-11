@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #1",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/1.png",
+  "dna": "2305034547a9595368cd7fdae80a7a733c4a0547",
+  "edition": 1,
+  "date": 1636618471050,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "enron"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "diz vs math"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "peace"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "john podesta"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "orange tint tortoise shell"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "redpilled"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

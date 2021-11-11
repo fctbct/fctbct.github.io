@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #11",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/11.png",
+  "dna": "5a4d98443bae4e9e35b581a90580f7dea825be13",
+  "edition": 11,
+  "date": 1636618472404,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "green new deal"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "merkaba"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "no jewelry"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "joe rogan"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "no glasses"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "hunter s thompson"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

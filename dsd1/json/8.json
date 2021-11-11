@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #8",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/8.png",
+  "dna": "38c2ad6c17e1e98b9ab214a465719c93b916f9c0",
+  "edition": 8,
+  "date": 1636618472025,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "moon landing"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "rawkus"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "peace"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "bill clinton"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "hello kitty"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "a16z"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

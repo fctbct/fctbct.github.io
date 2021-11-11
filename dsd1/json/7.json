@@ -1,0 +1,35 @@
+{
+  "name": "Deep State Degenerates #7",
+  "description": "FCTBCT presents: Deep State Degenerates Season One",
+  "image": "http://www.fctbct.com/dsd1/images/7.png",
+  "dna": "299039ebd01f6a451f3415d49ff1400dca6f3e97",
+  "edition": 7,
+  "date": 1636618471903,
+  "attributes": [
+    {
+      "trait_type": "_backgrounds",
+      "value": "blm"
+    },
+    {
+      "trait_type": "_clothing",
+      "value": "genius meme"
+    },
+    {
+      "trait_type": "_jewelry",
+      "value": "no jewelry"
+    },
+    {
+      "trait_type": "_heads",
+      "value": "barack obama"
+    },
+    {
+      "trait_type": "_glasses",
+      "value": "solarized blue"
+    },
+    {
+      "trait_type": "_hats",
+      "value": "red cap"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}
