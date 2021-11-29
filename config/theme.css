@@ -6,3 +6,5 @@
   --accent: #505050;
   --accent-text: #ffffff;
 }
+a, a:root, a:link {color: rgb(255, 28, 28) !important;}
+a:visited {color: rgb(0, 255, 0) !important;}
